@@ -28,4 +28,5 @@ Sep 2022 - Nov 2022
 
 ### SKills
 Technical: Microsoft Office Suite (Word, Excel, PowerPoint), Adobe, InDesign, SPSS, SQL, Python, Stata
+
 Language: English (fluent), Vietnamese (native)
