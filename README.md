@@ -26,7 +26,7 @@ Ho Chi Minh City, Vietnam · On-site
 - Participating in organizing the Autumn Festival by using Excel to record data on equipment and presents for children.
 
 ### Projects
-# KPIM Biking Corporation
+#### KPIM Biking Corporation
 
 Sep 2022 - Nov 2022
 
